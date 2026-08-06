@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "Exchange-MCP-Server": {
+      "url": "https://m365-apim.azure-api.net/exch-mcp/mcp",
+      "headers": {
+        "Accept": "application/json, text/event-stream"
+      }
+    }
+  }
+}
